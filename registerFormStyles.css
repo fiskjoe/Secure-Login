@@ -1,0 +1,11 @@
+form  { display: table; }
+p     { display: table-row; }
+label { display: table-cell; }
+input { display: table-cell; }
+div	  { display: table-cell; }
+emsg  { display: table-cell; }
+
+listings 	{ display: table; border: 1px solid black; border-collapse: collapse; width: 100%}
+listing 	{ display: table-row; border: 1px solid black; border-collapse: collapse;}
+item 		{ display: table-cell; border: 1px solid black; border-collapse: collapse; }	
+heading 	{ font-weight: bold; }
